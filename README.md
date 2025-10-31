@@ -72,3 +72,12 @@ pip install -r requirements.txt
 ### 5. Como Executar os Testes
 
 pytest --html=report.html --self-contained-html
+
+---
+
+### Autor
+
+Desenvolvido por **Silvandro Pedrozo**  
+💼 Engenheiro de Qualidade de Software | Especialista em Automação de Testes  
+🔗 [LinkedIn](https://www.linkedin.com/in/silvandro)
+
