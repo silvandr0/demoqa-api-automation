@@ -1,0 +1,20 @@
+# Bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Arquivos de virtual env
+.venv/
+venv/
+ENV/
+
+# Arquivos de IDE
+.vscode/
+.idea/
+
+# Relatórios de teste
+report.html
+.pytest_cache/
+
+# Arquivos de sistema
+.DS_Store

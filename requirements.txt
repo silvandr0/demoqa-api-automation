@@ -1,0 +1,14 @@
+# Framework de Teste
+pytest
+
+# Cliente HTTP
+requests
+
+# Gerenciador de dependências de fluxo
+pytest-dependency
+
+# Gerador de dados falsos (para usuários únicos)
+faker
+
+# Report HTML para pytest
+pytest-html
