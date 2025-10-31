@@ -52,8 +52,8 @@ Siga os passos abaixo para configurar o ambiente e executar o projeto.
 ### 2. Clone o Repositório
 
 
-git clone [https://github.com/seu-usuario/demoqa-api-automation.git](https://github.com/seu-usuario/demoqa-api-automation.git)
-cd demoqa-api-automation
+* git clone [https://github.com/seu-usuario/demoqa-api-automation.git](https://github.com/seu-usuario/demoqa-api-automation.git)
+* cd demoqa-api-automation
 
 ### 3. Crie e Ative um Ambiente Virtual
 
